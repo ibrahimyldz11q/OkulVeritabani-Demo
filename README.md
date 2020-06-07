@@ -1,2 +1,2 @@
-# okulveritaban-rnek
-Okul Veritabanı Demo
+# Demo Okul Veritabanı
+Demo Okul Veritabanı Sıradan Olarak Yapılmıştır.Yeni Tablolar Eklenerek Zenginleştirebilir
